@@ -1,5 +1,5 @@
 Hi there.
-I'm currently working on Gethome.ng and Koma.ng, both are at their early statges of development.
+I'm currently working on Gethome.ng and Koma.ng, both are at their early stages of development.
 And I’m currently learning software engineering at Altschool Africa.
 
 <!--
