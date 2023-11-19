@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there.
+I'm currently working on Gethome.ng and Koma.ng, both are at their early statges of development.
+And I’m currently learning software engineering at Altschool Africa.
 
 <!--
 **AgunloyeOS/agunloyeos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on gedthome and Koma.
-- 🌱 I’m currently learning backend engineering at Altschool Afica.
+- 🌱 I’m currently learning backend engineering at Altschool Afi
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
